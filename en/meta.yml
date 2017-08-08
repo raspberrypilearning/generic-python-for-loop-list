@@ -1,6 +1,6 @@
-title: For loop over a list in Python
+title: For loop with a list in Python
 hero_image: images/banner.png
-description: Using a for loop over a list in Python
+description: Using a for loop with a list in Python
 original_url: 
 theme: cc-prototype
 duration: 1 # 1, 2 or 3
@@ -10,4 +10,4 @@ copyedit: false
 interests: ""
 technologies: "Python"
 steps:
-  - title: For loop over a list
+  - title: For loop with a list
