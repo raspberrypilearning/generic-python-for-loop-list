@@ -1,0 +1,13 @@
+title: Python 中带有列表的 for 循环
+hero_image: images/banner.png
+description: 在 Python 中使用带有列表的 for 循环
+original_url: 
+theme: cc-prototype
+duration: 1 # 1, 2 or 3
+listed: false
+ingredient: true
+copyedit: true
+interests: ""
+technologies: "Python"
+steps:
+  - title: 带有列表的 for 循环
