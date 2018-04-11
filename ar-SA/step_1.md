@@ -1,6 +1,7 @@
 ستقوم **حلقة for** هذه بطباعة كل عنصر في القائمة `animals`. 
 
-python```
+
+```
 animals = ["fox", "wolf", "panda", "squirrel"]
 
 for animal in animals:
@@ -8,6 +9,7 @@ for animal in animals:
 ```
 
 سيكون الإخراج كما يلي:
+
 ```
 fox
 wolf
