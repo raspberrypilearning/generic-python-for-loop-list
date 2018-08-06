@@ -1,13 +1,15 @@
-title: حلقة for مع قائمة في Python
+---
+title: For loop with a list in Python
 hero_image: images/banner.png
-description: استخدام حلقة for مع قائمة في Python
-original_url: 
+description: Using a for loop with a list in Python
+original_url:
 theme: cc-prototype
-duration: 1 # 1, 2 or 3
+duration: 1
 listed: false
 ingredient: true
 copyedit: true
 interests: ""
 technologies: "Python"
 steps:
-  - title: حلقة for مع قائمة
+  - 
+    title: For loop with a list
