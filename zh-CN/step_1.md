@@ -1,4 +1,4 @@
-此 **for 循环**将打印出 `animals`（动物）列表中的每个项目。 
+This **for loop** which will print each item in the `animals` list.
 
 ```python
 animals = ["fox", "wolf", "panda", "squirrel"]
@@ -7,12 +7,12 @@ for animal in animals:
   print(animal)
 ```
 
-输出为：
-```
-fox
-wolf
-panda
-squirrel
-```
+The output is:
 
-请注意代码的 `print` 行稍微靠右一点。这叫做__缩进__ - 行被__缩进__表明其处于循环内部。循环内部的所有代码行都将重复运行。
+    fox
+    wolf
+    panda
+    squirrel
+    
+
+Notice that the `print` line of code is slightly further to the right. This is called **indentation** - the line is **indented** to show that it is inside the loop. Any lines of code inside the loop will be repeated.
