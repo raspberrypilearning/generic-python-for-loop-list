@@ -1,7 +1,7 @@
 ---
-title: For loop with a list in Python
+title: Fazer uma lista com loop for em Python
 hero_image: images/banner.png
-description: Using a for loop with a list in Python
+description: Utilizando o loop for para criar uma lista em Python
 original_url:
 theme: cc-prototype
 duration: 1
@@ -12,4 +12,4 @@ interests: ""
 technologies: "Python"
 steps:
   - 
-    title: For loop with a list
+    title: Lista com loop for
