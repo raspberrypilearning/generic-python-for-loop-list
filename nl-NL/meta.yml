@@ -1,7 +1,7 @@
 ---
-title: For loop with a list in Python
+title: For lus met een lijst in Python
 hero_image: images/banner.png
-description: Using a for loop with a list in Python
+description: Het gebruik van een for lus met een lijst in Python
 original_url:
 theme: cc-prototype
 duration: 1
@@ -12,4 +12,4 @@ interests: ""
 technologies: "Python"
 steps:
   - 
-    title: For loop with a list
+    title: For lus met een lijst
