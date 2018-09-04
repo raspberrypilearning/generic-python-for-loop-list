@@ -1,18 +1,18 @@
-This **for loop** which will print each item in the `animals` list.
+Deze **for lus** zal elk item in de lijst met `dieren` afdrukken.
 
 ```python
-animals = ["fox", "wolf", "panda", "squirrel"]
+dieren = ["vos", "wolf", "panda", "eekhoorn"]
 
-for animal in animals:
-  print(animal)
+for dier in dieren:
+  print(dier)
 ```
 
-The output is:
+De uitvoer is:
 
-    fox
+    vos
     wolf
     panda
-    squirrel
+    eekhoorn
     
 
-Notice that the `print` line of code is slightly further to the right. This is called **indentation** - the line is **indented** to show that it is inside the loop. Any lines of code inside the loop will be repeated.
+Merk op dat de `print` regel iets verder naar rechts staat. Dit heet **inspringing** - de regel is **ingesprongen** om aan te geven dat het in de lus zit. Alle code regels in de lus worden herhaald.
