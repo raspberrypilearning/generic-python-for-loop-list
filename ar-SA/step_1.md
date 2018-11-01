@@ -1,18 +1,18 @@
-This **for loop** which will print each item in the `animals` list.
+هذه **حلقة for** والتي ستطبع كل عنصر في قائمة `الحيوانات (animals)`.
 
 ```python
-animals = ["fox", "wolf", "panda", "squirrel"]
+animals = ["الثعلب"، "الذئب"، "الباندا"، "السنجاب"]
 
 for animal in animals:
   print(animal)
 ```
 
-The output is:
+الناتج هو:
 
-    fox
-    wolf
-    panda
-    squirrel
+    الثعلب
+    الذئب
+    الباندا
+    السنجاب
     
 
-Notice that the `print` line of code is slightly further to the right. This is called **indentation** - the line is **indented** to show that it is inside the loop. Any lines of code inside the loop will be repeated.
+لاحظ أنّ سطر تعليمة `الطباعة (print)` مبتعد قليلا إلى اليمين. وهذا ما يسمى **المسافة البادئة** - السطر يبتعد بـ**مسافة بادئة** لإظهار أنه داخل الحلقة. سيتم تكرار أية أسطر من التعليمات البرمجية داخل الحلقة.
