@@ -15,4 +15,4 @@ De uitvoer is:
     eekhoorn
     
 
-Merk op dat de `print` regel iets verder naar rechts staat. Dit heet **inspringing** - de regel is **ingesprongen** om aan te geven dat het in de lus zit. Alle code regels in de lus worden herhaald.
+Merk op dat de `print` regel iets verder naar rechts staat. This is called **indentation** - the line is **indented** to show that it is inside the loop. Alle code regels in de lus worden herhaald.
