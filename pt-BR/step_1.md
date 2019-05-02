@@ -1,5 +1,4 @@
-Este **loop for** que irá imprimir cada item na lista ` 
-animais`.
+Este **loop for** que irá imprimir cada item na lista `animais`.
 
 ```python
 animais = ["raposa", "lobo", "panda", "esquilo"]
