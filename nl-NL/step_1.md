@@ -15,4 +15,4 @@ De uitvoer is:
     eekhoorn
     
 
-Merk op dat de `print` regel iets verder naar rechts staat. Dit heet **inspringing** - de regel is **ingesprongen** om aan te geven dat het in de lus zit. Alle code regels in de lus worden herhaald.
+Merk op dat de `print` regel iets verder naar rechts staat. Dit heet **inspringing** - de regel is **ingesprongen** om aan te geven dat deze in de lus zit. Alle code regels in de lus worden herhaald.
