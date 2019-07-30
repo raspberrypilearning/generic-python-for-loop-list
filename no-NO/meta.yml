@@ -1,7 +1,7 @@
 ---
-title: For loop with a list in Python
+title: For-løkke med en liste i Python
 hero_image: images/banner.png
-description: Using a for loop with a list in Python
+description: Bruk en for-løkke med en liste i Python
 original_url:
 theme: cc-prototype
 duration: 1
@@ -12,4 +12,4 @@ interests: ""
 technologies: "Python"
 steps:
   - 
-    title: For loop with a list
+    title: For-løkke med en liste
