@@ -1,18 +1,18 @@
-This **for loop** which will print each item in the `animals` list.
+Denne **for-løkka** vil skrive ut hvert element i `liste_med_dyr` listen.
 
 ```python
-animals = ["fox", "wolf", "panda", "squirrel"]
+liste_med_dyr = ["rev", "ulv", "panda", "ekorn"]
 
-for animal in animals:
-  print(animal)
+for dyr in liste_med_dyr:
+  print(dyr)
 ```
 
-The output is:
+Resultatet er:
 
-    fox
-    wolf
+    rev
+    ulv
     panda
-    squirrel
+    ekorn
     
 
-Notice that the `print` line of code is slightly further to the right. This is called **indentation** - the line is **indented** to show that it is inside the loop. Any lines of code inside the loop will be repeated.
+Legg merke til at kodelinjen med `print` er litt lenger til høyre. Dette kalles **innrykk** - linjen er **rykket inn** for å vise at den er inni løkken. Alle kodelinjer inni løkken vil gjentas.
