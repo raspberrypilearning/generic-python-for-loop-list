@@ -1,18 +1,18 @@
 This **for loop** which will print each item in the `animals` list.
 
 ```python
-animals = ["fox", "wolf", "panda", "squirrel"]
+tiere = ["Fuchs", "Wolf", "Panda", "Eichhörnchen"]
 
-for animal in animals:
-  print(animal)
+for tier in tiere:
+  print(tier)
 ```
 
-The output is:
+Die Ausgabe ist:
 
-    fox
-    wolf
-    panda
-    squirrel
+    Fuchs
+    Wolf
+    Panda
+    Eichhörnchen
     
 
-Notice that the `print` line of code is slightly further to the right. This is called **indentation** - the line is **indented** to show that it is inside the loop. Any lines of code inside the loop will be repeated.
+Beachte, dass die Codezeile `print` etwas weiter rechts ist. This is called **indentation** - the line is **indented** to show that it is inside the loop. Alle Codezeilen innerhalb der Schleife werden wiederholt.
