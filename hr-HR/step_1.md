@@ -9,10 +9,10 @@ for animal in animals:
 
 The output is:
 
-    fox
-    wolf
+    lisica
+    vuk
     panda
-    squirrel
+    vjeverica
     
 
 Notice that the `print` line of code is slightly further to the right. This is called **indentation** - the line is **indented** to show that it is inside the loop. Any lines of code inside the loop will be repeated.
