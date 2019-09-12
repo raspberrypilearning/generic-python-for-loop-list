@@ -1,18 +1,18 @@
-This **for loop** which will print each item in the `animals` list.
+Această **buclă for** va afișa fiecare obiect din lista `animale`.
 
 ```python
-animals = ["fox", "wolf", "panda", "squirrel"]
+animale = [ "vulpe", "lup", "panda", "veverita"]
 
-for animal in animals:
+for animal in animale:
   print(animal)
 ```
 
-The output is:
+Rezultatul este:
 
-    fox
-    wolf
+    vulpe
+    lup
     panda
-    squirrel
+    veverita
     
 
-Notice that the `print` line of code is slightly further to the right. This is called **indentation** - the line is **indented** to show that it is inside the loop. Any lines of code inside the loop will be repeated.
+Observă că linia `print` a codului este puțin mai înspre dreapta. Aceasta se numește **indentare** - linia este **indentată** pentru a arăta că este în interiorul buclei. Orice linie de cod din interiorul buclei va fi repetată.
