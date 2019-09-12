@@ -1,7 +1,7 @@
 ---
-title: For loop with a list in Python
+title: Parcurgerea unei liste în Python cu bucla for
 hero_image: images/banner.png
-description: Using a for loop with a list in Python
+description: Folosirea unei bucle for pentru a parcurge o listă în Python
 original_url:
 theme: cc-prototype
 duration: 1
@@ -12,4 +12,4 @@ interests: ""
 technologies: "Python"
 steps:
   - 
-    title: For loop with a list
+    title: Parcurgerea unei liste cu o buclă for
