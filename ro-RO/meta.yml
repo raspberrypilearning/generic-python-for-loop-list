@@ -1,0 +1,14 @@
+---
+title: Parcurgerea unei liste în Python cu bucla for
+hero_image: images/banner.png
+description: Folosirea unei bucle for pentru a parcurge o listă în Python
+original_url:
+theme: cc-prototype
+duration: 1
+listed: false
+ingredient: true
+copyedit: true
+interests: ""
+technologies: "Python"
+steps:
+  - title: Parcurgerea unei liste cu o buclă for
