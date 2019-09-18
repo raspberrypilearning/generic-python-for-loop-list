@@ -15,4 +15,4 @@ Die Ausgabe ist:
     Eichhörnchen
     
 
-Beachte, dass die Codezeile `print` etwas weiter rechts ist. This is called **indentation** - the line is **indented** to show that it is inside the loop. Alle Codezeilen innerhalb der Schleife werden wiederholt.
+Beachte, dass die Codezeile `print` etwas weiter rechts ist. Dies wird **Einrückung** genannt - die Zeile ist **eingerückt**, um zu zeigen, dass sie innerhalb der Schleife ist. Alle Codezeilen innerhalb der Schleife werden wiederholt.
