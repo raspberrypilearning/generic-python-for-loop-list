@@ -1,4 +1,4 @@
-This **for loop** which will print each item in the `animals` list.
+Diese **for-Schleife**, die jeden Eintrag in der Liste `tiere` druckt.
 
 ```python
 tiere = ["Fuchs", "Wolf", "Panda", "Eichhörnchen"]
