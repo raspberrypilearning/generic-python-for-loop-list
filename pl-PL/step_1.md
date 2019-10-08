@@ -1,4 +1,4 @@
-To **pętla for** która wydrukuje każdy element z listy `zwierzeta`.
+Oto **pętla for**, która wydrukuje każdy element z listy `zwierzeta`.
 
 ```python
 zwierzeta = ["lis", "wilk", "panda", "wiewiórka"]
