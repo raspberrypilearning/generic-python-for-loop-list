@@ -1,18 +1,18 @@
-This **for loop** which will print each item in the `animals` list.
+これは`animals`リストの 各項目 (こうもく) を出力する**forループ**です。
 
 ```python
-animals = ["fox", "wolf", "panda", "squirrel"]
+animals = ["キツネ", "オオカミ", "パンダ", "リス"]
 
 for animal in animals:
   print(animal)
 ```
 
-The output is:
+出力は次のとおりです。
 
-    fox
-    wolf
-    panda
-    squirrel
+    キツネ
+    オオカミ
+    パンダ
+    リス
     
 
-Notice that the `print` line of code is slightly further to the right. This is called **indentation** - the line is **indented** to show that it is inside the loop. Any lines of code inside the loop will be repeated.
+`print` の行のコードがすこし右にずれていることに注意してください 。 これは **インデント**と呼ばれ、その行がループ内にあることを示すために **右にずれて** います。 ループ内のコード行はくり返して実行されます。
