@@ -1,18 +1,18 @@
-This **for loop** which will print each item in the `animals` list.
+**for 루프** 는 `동물` 리스트에 있는 각 항목을 출력합니다.
 
 ```python
-animals = ["fox", "wolf", "panda", "squirrel"]
+animals = ["여우", "늑대", "판다", "다람쥐"]
 
 for animal in animals:
   print(animal)
 ```
 
-The output is:
+출력은 다음과 같습니다.
 
-    fox
-    wolf
-    panda
-    squirrel
+    여우
+    늑대
+    판다
+    다람쥐
     
 
-Notice that the `print` line of code is slightly further to the right. This is called **indentation** - the line is **indented** to show that it is inside the loop. Any lines of code inside the loop will be repeated.
+`print` 코드 라인이 약간 오른쪽에 있는 것을 알 수 있습니다. 이를 **들여 쓰기** 이라고 합니다. - **들여 쓰기 된** 라인 내 코드가 반복 됩니다. 루프 안의 모든 코드 행이 animal 리스트 항목 개수만큼 반복됩니다.
