@@ -1,13 +1,13 @@
-This **for loop** which will print each item in the `animals` list.
+Ovo je **for petlja** koja će ispisati svaku stavku koja se nalazi u listi `zivotinje`.
 
 ```python
-animals = ["fox", "wolf", "panda", "squirrel"]
+zivotinje = [ "lisica", "vuk", "panda", "vjeverica"]
 
-for animal in animals:
-  print(animal)
+for zivotinja in zivotinje:
+  print(zivotinja)
 ```
 
-The output is:
+Dobit ćeš sljedeći ispis:
 
     lisica
     vuk
@@ -15,4 +15,4 @@ The output is:
     vjeverica
     
 
-Notice that the `print` line of code is slightly further to the right. This is called **indentation** - the line is **indented** to show that it is inside the loop. Any lines of code inside the loop will be repeated.
+Primijeti da se linija kôda s naredbom `print` nalazi malo više prema desno. To se zove **uvlačenje** - linija je **uvučena** da bi se pokazalo da je unutar petlje. Sve linije kôda unutar petlje će se ponoviti.
