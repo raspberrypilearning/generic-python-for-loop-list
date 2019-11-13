@@ -1,10 +1,10 @@
 ---
-title: For loop with a list in Python
+title: For petlja sa listom u Pythonu
 hero_image: images/banner.png
-description: Using a for loop with a list in Python
+description: Korištenje for petlje na listi u Pythonu
 original_url:
 theme: cc-prototype
-duration: 1
+duration: 1 #1, 2 or 3
 listed: false
 ingredient: true
 copyedit: true
@@ -12,4 +12,4 @@ interests: ""
 technologies: "Python"
 steps:
   - 
-    title: For loop with a list
+    title: For petlja na listi
