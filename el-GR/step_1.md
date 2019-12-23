@@ -1,4 +1,4 @@
-This **for loop** which will print each item in the `animals` list.
+Αυτός ο **βρόχος "Για"** που θα εκτυπώσει κάθε στοιχείο στη λίστα `animals`.
 
 ```python
 animals = ["fox", "wolf", "panda", "squirrel"]
@@ -7,7 +7,7 @@ for animal in animals:
   print(animal)
 ```
 
-The output is:
+Η έξοδος είναι:
 
     fox
     wolf
@@ -15,4 +15,4 @@ The output is:
     squirrel
     
 
-Notice that the `print` line of code is slightly further to the right. This is called **indentation** - the line is **indented** to show that it is inside the loop. Any lines of code inside the loop will be repeated.
+Παρατηρήστε ότι η γραμμή `print` του κώδικα ξεκινά ελαφρώς πιο δεξιά από τις υπόλοιπες. Αυτό ονομάζεται **εσοχή** - η γραμμή είναι **σε εσοχή** για να δείξει ότι βρίσκεται μέσα στον βρόχο. Οποιεσδήποτε γραμμές κώδικα στο εσωτερικό του βρόχου θα επαναληφθούν.
