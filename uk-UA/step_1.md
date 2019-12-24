@@ -1,18 +1,18 @@
-This **for loop** which will print each item in the `animals` list.
+Цей **цикл for** надрукує кожен елемент списку `animals`.
 
 ```python
-animals = ["fox", "wolf", "panda", "squirrel"]
+animals = ["лисиця", "вовк", "панда", "білка"]
 
 for animal in animals:
   print(animal)
 ```
 
-The output is:
+Результат:
 
-    fox
-    wolf
-    panda
-    squirrel
+    лисиця
+    вовк
+    панда
+    білка
     
 
-Notice that the `print` line of code is slightly further to the right. This is called **indentation** - the line is **indented** to show that it is inside the loop. Any lines of code inside the loop will be repeated.
+Зверни увагу на те, що рядок коду із `print` дещо зміщений вправо. Це називається **відступом**, цей рядок має **відступ** щоб показати, що він знаходиться всередині циклу. Кожен рядок коду всередині циклу буде повторений.
