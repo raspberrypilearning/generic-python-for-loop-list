@@ -1,13 +1,14 @@
-title: Python में सूची के साथ For लूप
+---
+title: पायथन में लूप के लिए एक सूची के साथ
 hero_image: images/banner.png
-description: Python में सूची के साथ For लूप का उपयोग करना
-original_url: 
+description: Python में सूची के साथ loop का उपयोग करना
+original_url:
 theme: cc-prototype
-duration: 1 # 1, 2 or 3
+duration: 1 #1, 2 or 3
 listed: false
 ingredient: true
 copyedit: true
 interests: ""
 technologies: "Python"
 steps:
-  - title: सूची के साथ For लूप
+  - title: एक सूची के साथ लूप के लिए
