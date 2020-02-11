@@ -1,18 +1,18 @@
-This **for loop** which will print each item in the `animals` list.
+यह **for loop** जो प्रत्येक आइटम को ` जानवरों` सूची में प्रिंट करेगा ।
 
 ```python
-animals = ["fox", "wolf", "panda", "squirrel"]
+जानवरों = ["लोमड़ी", "भेड़िया", "पांडा", "गिलहरी"]
 
-for animal in animals:
-  print(animal)
+जानवर के लिए जानवरों में:
+ print(जानवर)
 ```
 
-The output is:
+आउटपुट है:
 
-    fox
-    wolf
-    panda
-    squirrel
+    लोमड़ी
+    भेड़िया
+    पांडा
+    गिलहरी
     
 
-Notice that the `print` line of code is slightly further to the right. This is called **indentation** - the line is **indented** to show that it is inside the loop. Any lines of code inside the loop will be repeated.
+ध्यान दें कि `print` लाइन का कोड दाईं ओर थोड़ा आगे है। इसे कहा जाता है **indentation** - लाइन **indented** यह दिखाने के लिए कि यह लूप के अंदर है। लूप के अंदर कोड की कोई भी लाइन बार-बार दोहराया जाएगा।
