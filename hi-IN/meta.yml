@@ -1,15 +1,15 @@
 ---
-title: For loop with a list in Python
-hero_image: images/banner.png
-description: Using a for loop with a list in Python
+title: पायथन में लूप के लिए एक सूची के साथ
+hero_image: छवियां/बैनर.png
+description: Python में सूची के साथ loop का उपयोग करना
 original_url:
-theme: cc-prototype
-duration: 1
+theme: cc-प्रोटोटाइप
+duration: 1 #1, 2 or 3
 listed: false
 ingredient: true
 copyedit: true
 interests: ""
-technologies: "Python"
+technologies: "पायथन"
 steps:
   - 
-    title: For loop with a list
+    title: एक सूची के साथ लूप के लिए
