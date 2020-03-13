@@ -1,18 +1,18 @@
-This **for loop** which will print each item in the `animals` list.
+Bu, `hayvanlar` listesinin içindeki her nesneyi yazdıran bir **for loop** döngüsüdür.
 
 ```python
-animals = ["fox", "wolf", "panda", "squirrel"]
+hayvanlar = ["tilki", "kurt", "panda", "sincap"]
 
-for animal in animals:
-  print(animal)
+for hayvan in hayvanlar:
+  print(hayvan)
 ```
 
-The output is:
+Çıktı şu şekilde gözükmeli:
 
-    fox
-    wolf
+    tilki
+    kurt
     panda
-    squirrel
+    sincap
     
 
-Notice that the `print` line of code is slightly further to the right. This is called **indentation** - the line is **indented** to show that it is inside the loop. Any lines of code inside the loop will be repeated.
+`print` komut satırının biraz daha sağda yazılmış olduğuna dikkat edin. Buna **girinti** denir: - **girintili satırın** döngünün içinde olduğunu göstermek için kullanılır. Döngünün içindeki tüm kod satırları tekrarlanacaktır.
