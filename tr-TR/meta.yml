@@ -1,0 +1,14 @@
+---
+title: Python'da bir listeyi döngü haline getirmek için
+hero_image: images/banner.png
+description: Python'da bir listeyi döngü haline getirmek için 'for loop' komutunu kullanma
+original_url:
+theme: cc-prototype
+duration: 1 #1, 2 or 3
+listed: false
+ingredient: true
+copyedit: true
+interests: ""
+technologies: "Python"
+steps:
+  - title: Bir listeyle 'for loop' komutu
