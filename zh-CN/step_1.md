@@ -1,18 +1,18 @@
-此 **for 循环**将打印出 `animals`（动物）列表中的每个项目。 
+应用 **for loop** 来显示列表`animals`中的每个项目。
 
 ```python
-animals = ["fox", "wolf", "panda", "squirrel"]
+animals = ["fox", "wolf", "panda", "squirrel"] #表示列表‘animals’包含 [“狐狸”，“狼”，“熊猫”，“松鼠”] 
 
-for animal in animals:
-  print(animal)
+for animal in animals: #在列表‘animals’中循环寻找每一个动物
+  print(animal) #显示列表中的动物
 ```
 
 输出为：
-```
-fox
-wolf
-panda
-squirrel
-```
 
-请注意代码的 `print` 行稍微靠右一点。这叫做__缩进__ - 行被__缩进__表明其处于循环内部。循环内部的所有代码行都将重复运行。
+    fox #狐狸
+    wolf #狼
+    panda #熊猫
+    squirrel #松鼠
+    
+
+请注意，`print`代码行起始点较为偏右。 这称为缩进**indentation** ，这一缩进**indented**说明这行在循环内。 循环中的任何代码，都会随着循环重复。
