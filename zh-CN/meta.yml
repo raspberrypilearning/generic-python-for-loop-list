@@ -1,7 +1,7 @@
 ---
-title: For loop with a list in Python
+title: Python 中带有列表的 for 循环
 hero_image: images/banner.png
-description: Using a for loop with a list in Python
+description: 在 Python 中使用带有列表的 for 循环
 original_url:
 theme: cc-prototype
 duration: 1 #1, 2 or 3
@@ -12,4 +12,4 @@ interests: ""
 technologies: "Python"
 steps:
   - 
-    title: For loop with a list
+    title: 带有列表的 for 循环
