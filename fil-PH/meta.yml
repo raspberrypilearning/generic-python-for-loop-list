@@ -1,0 +1,15 @@
+---
+title: For loop with a list in Python
+hero_image: images/banner.png
+description: Using a for loop with a list in Python
+original_url:
+theme: cc-prototype
+duration: 1 #1, 2 or 3
+listed: false
+ingredient: true
+copyedit: true
+interests: ""
+technologies: "Python"
+steps:
+  - 
+    title: For loop with a list
