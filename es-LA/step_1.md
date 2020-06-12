@@ -1,4 +1,4 @@
-Este **bucle 'for'** imprimirá cada elemento de la lista de `animales`.
+Este **bucle for** imprimirá cada elemento en la lista de `animales`.
 
 ```python
 animales = ["zorro", "lobo", "oso panda", "ardilla"]
@@ -11,8 +11,8 @@ El resultado es:
 
     zorro
     lobo
-    oso panda
+    panda
     ardilla
     
 
-Fíjate que la línea de código `print` está un poco más hacia la derecha. Esto se llama **indentado (o sangría)** - la línea está **indentada** para mostrar que está dentro del bucle. Cualquier línea de código dentro del bucle se repetirá.
+Fíjate que la línea de código `print` está un poco más a la derecha. Esto se llama **sangría** - la línea tiene esta **sangría** para mostrar que está dentro del bucle. Cualquier línea de código dentro del bucle se repetirá.
