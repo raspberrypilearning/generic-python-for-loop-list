@@ -1,7 +1,7 @@
 ---
-title: Bucle 'for' con una lista en Python
+title: Bucle «for» en una lista de Python
 hero_image: images/banner.png
-description: Usar un bucle 'for' con una lista en Python
+description: Usar un bucle «for» en una lista de Python
 original_url:
 theme: cc-prototype
 duration: 1 #1, 2 or 3
@@ -12,4 +12,4 @@ interests: ""
 technologies: "Python"
 steps:
   - 
-    title: Bucle 'for' con una lista
+    title: Bucle «for» en una lista
