@@ -1,18 +1,18 @@
-This **for loop** which will print each item in the `animals` list.
+這個 **for迴圈** ，將會印出`動物` 列表中的每個項目。
 
 ```python
-animals = ["fox", "wolf", "panda", "squirrel"]
+animals = ["狐狸", "狼", "熊貓", "松鼠"]
 
 for animal in animals:
   print(animal)
 ```
 
-The output is:
+輸出是：
 
-    fox
-    wolf
-    panda
-    squirrel
+    狐狸
+    狼
+    熊貓
+    松鼠
     
 
-Notice that the `print` line of code is slightly further to the right. This is called **indentation** - the line is **indented** to show that it is inside the loop. Any lines of code inside the loop will be repeated.
+請注意， `打印`的代碼稍微向右移。 這稱為 **縮格** - 該行 **縮格** 以顯示它位在迴圈內。 循環內的任何代碼行都將重複出現。
