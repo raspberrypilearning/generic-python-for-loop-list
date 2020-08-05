@@ -1,0 +1,14 @@
+---
+title: Python中帶有列表的for迴圈
+hero_image: images/banner.png
+description: 在Python中使用帶有列表的for迴圈
+original_url:
+theme: cc-prototype
+duration: 1 #1, 2 or 3
+listed: false
+ingredient: true
+copyedit: true
+interests: ""
+technologies: "Python"
+steps:
+  - title: 帶有列表的for迴圈
