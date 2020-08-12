@@ -1,7 +1,7 @@
 Este **bucle for** imprimirá cada elemento en la lista de `animales`.
 
 ```python
-animales = ["zorro", "lobo", "oso panda", "ardilla"]
+animales = ["zorro", "lobo", "panda", "ardilla"]
 
 for animal in animales:
   print (animal)
