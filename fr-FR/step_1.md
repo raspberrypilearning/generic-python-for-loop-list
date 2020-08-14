@@ -9,10 +9,10 @@ for animal in animaux:
 
 La sortie est la suivante :
 
-    fox
-    wolf
+    renard
+    loup
     panda
-    squirrel
+    écureuil
     
 
-Notice that the `print` line of code is slightly further to the right. This is called **indentation** - the line is **indented** to show that it is inside the loop. Any lines of code inside the loop will be repeated.
+Note que la ligne de code `print` est légèrement plus à droite. Ceci est appelé **indentation** - la ligne est **indentée** pour montrer qu'elle est à l'intérieur de la boucle. Toutes les lignes de code à l'intérieur de la boucle seront répétées.
