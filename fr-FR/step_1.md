@@ -1,13 +1,13 @@
-This **for loop** which will print each item in the `animals` list.
+Cette boucle ** for ** imprimera chaque élément dans la liste ` animaux `.
 
 ```python
-animals = ["fox", "wolf", "panda", "squirrel"]
+animaux = ["renard", "loup", "panda", "écureuil"]
 
-for animal in animals:
+for animal in animaux:
   print(animal)
 ```
 
-The output is:
+La sortie est la suivante :
 
     fox
     wolf
