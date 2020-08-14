@@ -1,7 +1,7 @@
 ---
-title: For loop with a list in Python
+title: Boucle for avec une liste en Python
 hero_image: images/banner.png
-description: Using a for loop with a list in Python
+description: Boucle for avec une liste en Python
 original_url:
 theme: cc-prototype
 duration: 1 #1, 2 or 3
@@ -12,4 +12,4 @@ interests: ""
 technologies: "Python"
 steps:
   - 
-    title: For loop with a list
+    title: Boucle for avec une liste
