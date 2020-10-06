@@ -1,4 +1,4 @@
-Cette boucle ** for ** imprimera chaque élément dans la liste `animaux`.
+Cette boucle **for** imprimera chaque élément dans la liste `animaux`.
 
 ```python
 animaux = ["renard", "loup", "panda", "écureuil"]
