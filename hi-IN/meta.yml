@@ -1,7 +1,7 @@
 ---
-title: पायथन में एक सूची के साथ For loop
+title: Python में सूची के साथ For लूप
 hero_image: छवियां/बैनर.png
-description: Python में सूची के साथ loop का उपयोग करना
+description: Python में सूची के साथ For लूप का उपयोग करना
 original_url:
 theme: cc-प्रोटोटाइप
 duration: 1 #1, 2 or 3
@@ -12,4 +12,4 @@ interests: ""
 technologies: "पायथन"
 steps:
   - 
-    title: एक सूची के साथ लूप के लिए
+    title: सूची के साथ For लूप
