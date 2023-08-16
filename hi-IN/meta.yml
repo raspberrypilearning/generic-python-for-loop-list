@@ -1,15 +1,15 @@
 ---
 title: Python में सूची के साथ For लूप
-hero_image: छवियां/बैनर.png
+hero_image: images/banner.png
 description: Python में सूची के साथ For लूप का उपयोग करना
 original_url:
-theme: cc-प्रोटोटाइप
+theme: cc-prototype
 duration: 1 #1, 2 or 3
 listed: false
 ingredient: true
 copyedit: true
 interests: ""
-technologies: "पायथन"
+technologies: "Python"
 steps:
   - 
     title: सूची के साथ For लूप
