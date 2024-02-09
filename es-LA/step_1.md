@@ -11,7 +11,7 @@ El resultado es:
 
     zorro
     lobo
-    panda
+    oso panda
     ardilla
     
 
